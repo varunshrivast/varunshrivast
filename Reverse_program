@@ -1,0 +1,4 @@
+S = 'university'
+S1 = list(s)
+S1.reverse()
+print(''.join(S1))
