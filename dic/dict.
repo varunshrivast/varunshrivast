@@ -1,0 +1,4 @@
+d1={}
+for x in range (97,123):
+    d1.update({chr(x):x})
+print(d1)
