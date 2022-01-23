@@ -1,0 +1,5 @@
+l = list ()
+for x in range (1,6):
+    t = (x,x*x)
+    l.append(t)
+print(l)
